@@ -1,0 +1,25 @@
+{
+  "name": "hapi-jwt-example",
+  "version": "1.0.0",
+  "description": "Example using @hapi/jwt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bolencki13/hapi-jwt-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bolencki13/hapi-jwt-example/issues"
+  },
+  "homepage": "https://github.com/bolencki13/hapi-jwt-example#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.0.0",
+    "@hapi/jwt": "^2.0.0",
+    "axios": "^0.20.0",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
